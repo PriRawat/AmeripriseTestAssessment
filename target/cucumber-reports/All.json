@@ -1,0 +1,260 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6532144400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.initDriver()"
+            }
+          }
+        ],
+        "line": 21,
+        "name": "User validates the applied filter on the basis of sorting and pricing",
+        "description": "",
+        "id": "search-results-feature;user-validates-the-applied-filter-on-the-basis-of-sorting-and-pricing;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 1107542000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 730532800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User navigates to the Magento application",
+            "match": {
+              "location": "HomeStepDef.user_navigates_to_the_magento_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 172752100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User hovers over \"Women\" drop down",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Women",
+                  "offset": 18
+                }
+              ],
+              "location": "HomeStepDef.user_hovers_over_drop_down(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 190329400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User hovers on \"Tops\" section",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Tops",
+                  "offset": 16
+                }
+              ],
+              "location": "HomeStepDef.user_hovers_on_section(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1751936300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User clicks on \"Jackets\" option",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Jackets",
+                  "offset": 16
+                }
+              ],
+              "location": "HomeStepDef.user_clicks_on_option(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 369023500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User lands to the \"Jackets\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Jackets",
+                  "offset": 19
+                }
+              ],
+              "location": "ResultStepDef.user_lands_to_the_page(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 144227700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User validates the count of search results",
+            "match": {
+              "location": "ResultStepDef.user_validates_the_count_of_search_result()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 201053118600,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User sorts products on the basis of rating in descending order",
+            "match": {
+              "location": "ResultStepDef.user_products_on_the_basis_of_rating()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 9394900,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User prints the products names and ratings",
+            "match": {
+              "location": "ResultStepDef.user_prints_the_product_names_and_ratings()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 166473500,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User clicks on Price tab",
+            "match": {
+              "location": "ResultStepDef.user_clicks_on_price_tab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1969841500,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User selects the price range \"$60.00-$69.99\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$60.00-$69.99",
+                  "offset": 30
+                }
+              ],
+              "location": "ResultStepDef.user_selects_the_price_range(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 135124600,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User validates the products falling under the range \"$60.00-$69.99\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$60.00-$69.99",
+                  "offset": 53
+                }
+              ],
+              "location": "ResultStepDef.user_validates_products_falling_under_the_price_range(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 317200700,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "User counts the total products whose stars are equal or greater than four",
+            "match": {
+              "location": "ResultStepDef.user_counts_the_total_products_whose_stars_are_equal_or_greater_than_four()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1020600,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User prints the name and price",
+            "match": {
+              "location": "ResultStepDef.user_prints_the_name_and_price()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@ApplyFilter"
+          }
+        ]
+      }
+    ],
+    "name": "Search Results Feature",
+    "description": "",
+    "id": "search-results-feature",
+    "keyword": "Feature",
+    "uri": "Home.feature"
+  }
+]

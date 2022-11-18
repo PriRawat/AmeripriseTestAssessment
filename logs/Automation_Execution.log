@@ -1,0 +1,948 @@
+2022-11-16 03:32:31 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 03:32:56 INFO  My Logs:21 - Hi user
+2022-11-16 03:53:42 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 03:53:49 INFO  My Logs:23 - User validates the PHP Travels Login page
+2022-11-16 03:54:27 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 03:54:34 INFO  My Logs:23 - User validates the PHP Travels Login page
+2022-11-16 14:39:14 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 14:39:29 INFO  My Logs:23 - User validates the PHP Travels Login page
+2022-11-16 14:39:30 INFO  My Logs:29 - User enters the username
+2022-11-16 14:47:47 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 14:49:21 INFO  My Logs:23 - User validates the PHP Travels Login page
+2022-11-16 15:03:28 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 15:03:40 INFO  My Logs:23 - User validates the PHP Travels Login page
+2022-11-16 15:03:53 INFO  My Logs:25 - true
+2022-11-16 15:04:24 INFO  My Logs:31 - User enters the username
+2022-11-16 15:04:24 INFO  My Logs:37 - User enters the password
+2022-11-16 15:04:24 INFO  My Logs:43 - User enters the password
+2022-11-16 15:06:07 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 15:06:16 INFO  My Logs:23 - User validates the PHP Travels Login page
+2022-11-16 15:06:17 INFO  My Logs:29 - User enters the username
+2022-11-16 15:06:18 INFO  My Logs:35 - User enters the password
+2022-11-16 15:06:18 INFO  My Logs:41 - User enters the password
+2022-11-16 16:38:20 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 16:38:29 INFO  My Logs:23 - User validates Magento Application is launched
+2022-11-16 16:38:29 INFO  My Logs:29 - User hovers over top header drop down
+2022-11-16 16:48:19 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 16:48:27 INFO  My Logs:23 - User validates Magento Application is launched
+2022-11-16 16:48:28 INFO  My Logs:29 - User hovers over top header drop down
+2022-11-16 16:48:28 INFO  My Logs:35 - User hovers over section
+2022-11-16 16:48:28 INFO  My Logs:41 - User clicks on the option
+2022-11-16 16:49:29 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 16:49:38 INFO  My Logs:23 - User validates Magento Application is launched
+2022-11-16 16:49:39 INFO  My Logs:29 - User hovers over top header drop down
+2022-11-16 16:52:03 INFO  My Logs:35 - User hovers over section
+2022-11-16 16:52:04 INFO  My Logs:41 - User clicks on the option
+2022-11-16 16:52:24 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 16:52:34 INFO  My Logs:23 - User validates Magento Application is launched
+2022-11-16 16:52:35 INFO  My Logs:29 - User hovers over top header drop down
+2022-11-16 16:52:35 INFO  My Logs:35 - User hovers over section
+2022-11-16 16:52:35 INFO  My Logs:41 - User clicks on the option
+2022-11-16 17:30:40 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 17:30:50 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-16 17:30:51 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-16 17:30:51 INFO  My Logs:34 - User hovers over section
+2022-11-16 17:30:51 INFO  My Logs:40 - User clicks on the option
+2022-11-16 17:31:10 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 17:31:19 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-16 17:31:20 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-16 17:31:20 INFO  My Logs:34 - User hovers over section
+2022-11-16 17:31:38 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 17:31:45 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-16 17:31:46 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-16 17:31:46 INFO  My Logs:34 - User hovers over section
+2022-11-16 17:31:46 INFO  My Logs:40 - User clicks on the option
+2022-11-16 17:31:48 INFO  My Logs:24 - User lands on to the page
+2022-11-16 17:31:48 INFO  My Logs:30 - User validates the count of search results
+2022-11-16 19:08:46 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 19:08:54 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-16 19:08:55 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-16 19:08:55 INFO  My Logs:34 - User hovers over section
+2022-11-16 19:08:55 INFO  My Logs:40 - User clicks on the option
+2022-11-16 19:08:58 INFO  My Logs:24 - User lands on to the page
+2022-11-16 19:08:58 INFO  My Logs:30 - User validates the count of search results
+2022-11-16 19:08:58 INFO  My Logs:38 - User sorts products on the basis of rating in descending order
+2022-11-16 19:18:29 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 19:18:38 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-16 19:18:39 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-16 19:18:39 INFO  My Logs:34 - User hovers over section
+2022-11-16 19:18:39 INFO  My Logs:40 - User clicks on the option
+2022-11-16 19:18:41 INFO  My Logs:24 - User lands on to the page
+2022-11-16 19:18:41 INFO  My Logs:30 - User validates the count of search results
+2022-11-16 19:18:42 INFO  My Logs:38 - User sorts products on the basis of rating in descending order
+2022-11-16 19:21:48 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 19:21:57 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-16 19:21:57 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-16 19:21:57 INFO  My Logs:34 - User hovers over section
+2022-11-16 19:21:57 INFO  My Logs:40 - User clicks on the option
+2022-11-16 19:22:00 INFO  My Logs:24 - User lands on to the page
+2022-11-16 19:22:00 INFO  My Logs:30 - User validates the count of search results
+2022-11-16 19:22:00 INFO  My Logs:38 - User sorts products on the basis of rating in descending order
+2022-11-16 19:22:53 INFO  My Logs:40 - {Olivia 1/4 Zip Light Jacket=0, Juno Jacket=87, Neve Studio Dance Jacket=87, Nadia Elements Shell=60, Jade Yoga Jacket=87, Adrienne Trek Jacket=60, Inez Full Zip Jacket=67, Riona Full Zip Jacket=87, Ingrid Running Jacket=90, Augusta Pullover Jacket=87, Josie Yoga Jacket=70, Stellar Solar Jacket=67}
+2022-11-16 19:22:53 INFO  My Logs:45 - User prints the products names and ratings
+2022-11-16 20:11:37 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 20:11:50 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-16 20:11:51 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-16 20:11:51 INFO  My Logs:34 - User hovers over section
+2022-11-16 20:11:51 INFO  My Logs:40 - User clicks on the option
+2022-11-16 20:11:55 INFO  My Logs:29 - User lands on to the page
+2022-11-16 20:11:55 INFO  My Logs:35 - User validates the count of search results
+2022-11-16 20:11:56 INFO  My Logs:43 - User sorts products on the basis of rating in descending order
+2022-11-16 20:12:48 INFO  My Logs:49 - User prints the products names and ratings
+2022-11-16 20:12:48 INFO  My Logs:51 - Product Name : Ingrid Running Jacket Rating : 90
+2022-11-16 20:12:48 INFO  My Logs:51 - Product Name : Juno Jacket Rating : 87
+2022-11-16 20:12:48 INFO  My Logs:51 - Product Name : Neve Studio Dance Jacket Rating : 87
+2022-11-16 20:12:48 INFO  My Logs:51 - Product Name : Jade Yoga Jacket Rating : 87
+2022-11-16 20:12:48 INFO  My Logs:51 - Product Name : Riona Full Zip Jacket Rating : 87
+2022-11-16 20:12:48 INFO  My Logs:51 - Product Name : Augusta Pullover Jacket Rating : 87
+2022-11-16 20:12:48 INFO  My Logs:51 - Product Name : Josie Yoga Jacket Rating : 70
+2022-11-16 20:12:48 INFO  My Logs:51 - Product Name : Inez Full Zip Jacket Rating : 67
+2022-11-16 20:12:48 INFO  My Logs:51 - Product Name : Stellar Solar Jacket Rating : 67
+2022-11-16 20:12:48 INFO  My Logs:51 - Product Name : Nadia Elements Shell Rating : 60
+2022-11-16 20:12:48 INFO  My Logs:51 - Product Name : Adrienne Trek Jacket Rating : 60
+2022-11-16 20:12:48 INFO  My Logs:51 - Product Name : Olivia 1/4 Zip Light Jacket Rating : 0
+2022-11-16 20:26:59 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 20:27:13 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-16 20:27:13 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-16 20:27:14 INFO  My Logs:34 - User hovers over section
+2022-11-16 20:27:14 INFO  My Logs:40 - User clicks on the option
+2022-11-16 20:27:17 INFO  My Logs:29 - User lands on to the page
+2022-11-16 20:27:18 INFO  My Logs:35 - User validates the count of search results
+2022-11-16 20:27:18 INFO  My Logs:43 - User sorts products on the basis of rating in descending order
+2022-11-16 20:28:12 INFO  My Logs:49 - User prints the products names and ratings
+2022-11-16 20:28:12 INFO  My Logs:53 - Jacket Name : Ingrid Running Jacket , Review Stars : 4.0*
+2022-11-16 20:28:12 INFO  My Logs:53 - Jacket Name : Juno Jacket , Review Stars : 4.0*
+2022-11-16 20:28:12 INFO  My Logs:53 - Jacket Name : Neve Studio Dance Jacket , Review Stars : 4.0*
+2022-11-16 20:28:12 INFO  My Logs:53 - Jacket Name : Jade Yoga Jacket , Review Stars : 4.0*
+2022-11-16 20:28:12 INFO  My Logs:53 - Jacket Name : Riona Full Zip Jacket , Review Stars : 4.0*
+2022-11-16 20:28:12 INFO  My Logs:53 - Jacket Name : Augusta Pullover Jacket , Review Stars : 4.0*
+2022-11-16 20:28:12 INFO  My Logs:53 - Jacket Name : Josie Yoga Jacket , Review Stars : 3.0*
+2022-11-16 20:28:12 INFO  My Logs:53 - Jacket Name : Inez Full Zip Jacket , Review Stars : 3.0*
+2022-11-16 20:28:12 INFO  My Logs:53 - Jacket Name : Stellar Solar Jacket , Review Stars : 3.0*
+2022-11-16 20:28:12 INFO  My Logs:53 - Jacket Name : Nadia Elements Shell , Review Stars : 3.0*
+2022-11-16 20:28:12 INFO  My Logs:53 - Jacket Name : Adrienne Trek Jacket , Review Stars : 3.0*
+2022-11-16 20:28:12 INFO  My Logs:53 - Jacket Name : Olivia 1/4 Zip Light Jacket , Review Stars : 0.0*
+2022-11-16 20:42:18 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 20:42:32 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-16 20:42:34 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-16 20:42:34 INFO  My Logs:34 - User hovers over section
+2022-11-16 20:42:34 INFO  My Logs:40 - User clicks on the option
+2022-11-16 20:42:38 INFO  My Logs:29 - User lands on to the page
+2022-11-16 20:42:39 INFO  My Logs:35 - User validates the count of search results
+2022-11-16 20:42:39 INFO  My Logs:43 - User sorts products on the basis of rating in descending order
+2022-11-16 20:43:32 INFO  My Logs:49 - User prints the products names and ratings
+2022-11-16 20:43:32 INFO  My Logs:53 - Jacket Name : Ingrid Running Jacket , Review Stars : 4.5*
+2022-11-16 20:43:32 INFO  My Logs:53 - Jacket Name : Juno Jacket , Review Stars : 4.3*
+2022-11-16 20:43:32 INFO  My Logs:53 - Jacket Name : Neve Studio Dance Jacket , Review Stars : 4.3*
+2022-11-16 20:43:32 INFO  My Logs:53 - Jacket Name : Jade Yoga Jacket , Review Stars : 4.3*
+2022-11-16 20:43:32 INFO  My Logs:53 - Jacket Name : Riona Full Zip Jacket , Review Stars : 4.3*
+2022-11-16 20:43:32 INFO  My Logs:53 - Jacket Name : Augusta Pullover Jacket , Review Stars : 4.3*
+2022-11-16 20:43:32 INFO  My Logs:53 - Jacket Name : Josie Yoga Jacket , Review Stars : 3.5*
+2022-11-16 20:43:32 INFO  My Logs:53 - Jacket Name : Inez Full Zip Jacket , Review Stars : 3.3*
+2022-11-16 20:43:32 INFO  My Logs:53 - Jacket Name : Stellar Solar Jacket , Review Stars : 3.3*
+2022-11-16 20:43:32 INFO  My Logs:53 - Jacket Name : Nadia Elements Shell , Review Stars : 3*
+2022-11-16 20:43:32 INFO  My Logs:53 - Jacket Name : Adrienne Trek Jacket , Review Stars : 3*
+2022-11-16 20:43:32 INFO  My Logs:53 - Jacket Name : Olivia 1/4 Zip Light Jacket , Review Stars : 0*
+2022-11-16 22:19:48 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 22:20:05 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-16 22:20:06 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-16 22:20:06 INFO  My Logs:34 - User hovers over section
+2022-11-16 22:20:07 INFO  My Logs:40 - User clicks on the option
+2022-11-16 22:20:10 INFO  My Logs:32 - User lands on to the page
+2022-11-16 22:20:11 INFO  My Logs:38 - User validates the count of search results
+2022-11-16 22:20:11 INFO  My Logs:46 - User sorts products on the basis of rating in descending order
+2022-11-16 22:21:04 INFO  My Logs:52 - User prints the products names and ratings
+2022-11-16 22:21:04 INFO  My Logs:56 - Jacket Name : Ingrid Running Jacket , Review Stars : 4.5*
+2022-11-16 22:21:04 INFO  My Logs:56 - Jacket Name : Juno Jacket , Review Stars : 4.3*
+2022-11-16 22:21:04 INFO  My Logs:56 - Jacket Name : Neve Studio Dance Jacket , Review Stars : 4.3*
+2022-11-16 22:21:04 INFO  My Logs:56 - Jacket Name : Jade Yoga Jacket , Review Stars : 4.3*
+2022-11-16 22:21:04 INFO  My Logs:56 - Jacket Name : Riona Full Zip Jacket , Review Stars : 4.3*
+2022-11-16 22:21:04 INFO  My Logs:56 - Jacket Name : Augusta Pullover Jacket , Review Stars : 4.3*
+2022-11-16 22:21:04 INFO  My Logs:56 - Jacket Name : Josie Yoga Jacket , Review Stars : 3.5*
+2022-11-16 22:21:04 INFO  My Logs:56 - Jacket Name : Inez Full Zip Jacket , Review Stars : 3.3*
+2022-11-16 22:21:04 INFO  My Logs:56 - Jacket Name : Stellar Solar Jacket , Review Stars : 3.3*
+2022-11-16 22:21:04 INFO  My Logs:56 - Jacket Name : Nadia Elements Shell , Review Stars : 3*
+2022-11-16 22:21:04 INFO  My Logs:56 - Jacket Name : Adrienne Trek Jacket , Review Stars : 3*
+2022-11-16 22:21:04 INFO  My Logs:56 - Jacket Name : Olivia 1/4 Zip Light Jacket , Review Stars : 0*
+2022-11-16 22:21:04 INFO  My Logs:62 - User clicks on Price tab
+2022-11-16 22:21:04 INFO  My Logs:68 - User selects the price range
+2022-11-16 23:21:15 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 23:21:27 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-16 23:21:27 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-16 23:21:28 INFO  My Logs:34 - User hovers over section
+2022-11-16 23:21:28 INFO  My Logs:40 - User clicks on the option
+2022-11-16 23:21:30 INFO  My Logs:32 - User lands on to the page
+2022-11-16 23:21:30 INFO  My Logs:38 - User validates the count of search results
+2022-11-16 23:21:31 INFO  My Logs:46 - User sorts products on the basis of rating in descending order
+2022-11-16 23:22:23 INFO  My Logs:52 - User prints the products names and ratings
+2022-11-16 23:22:23 INFO  My Logs:56 - Jacket Name : Ingrid Running Jacket , Review Stars : 4.5*
+2022-11-16 23:22:23 INFO  My Logs:56 - Jacket Name : Juno Jacket , Review Stars : 4.3*
+2022-11-16 23:22:23 INFO  My Logs:56 - Jacket Name : Neve Studio Dance Jacket , Review Stars : 4.3*
+2022-11-16 23:22:23 INFO  My Logs:56 - Jacket Name : Jade Yoga Jacket , Review Stars : 4.3*
+2022-11-16 23:22:23 INFO  My Logs:56 - Jacket Name : Riona Full Zip Jacket , Review Stars : 4.3*
+2022-11-16 23:22:23 INFO  My Logs:56 - Jacket Name : Augusta Pullover Jacket , Review Stars : 4.3*
+2022-11-16 23:22:23 INFO  My Logs:56 - Jacket Name : Josie Yoga Jacket , Review Stars : 3.5*
+2022-11-16 23:22:23 INFO  My Logs:56 - Jacket Name : Inez Full Zip Jacket , Review Stars : 3.3*
+2022-11-16 23:22:23 INFO  My Logs:56 - Jacket Name : Stellar Solar Jacket , Review Stars : 3.3*
+2022-11-16 23:22:23 INFO  My Logs:56 - Jacket Name : Nadia Elements Shell , Review Stars : 3*
+2022-11-16 23:22:23 INFO  My Logs:56 - Jacket Name : Adrienne Trek Jacket , Review Stars : 3*
+2022-11-16 23:22:23 INFO  My Logs:56 - Jacket Name : Olivia 1/4 Zip Light Jacket , Review Stars : 0*
+2022-11-16 23:22:23 INFO  My Logs:62 - User clicks on Price tab
+2022-11-16 23:22:23 INFO  My Logs:68 - User selects the price range
+2022-11-16 23:22:25 INFO  My Logs:74 - User validates the count of products match
+2022-11-16 23:27:42 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 23:27:51 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-16 23:27:52 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-16 23:27:52 INFO  My Logs:34 - User hovers over section
+2022-11-16 23:27:52 INFO  My Logs:40 - User clicks on the option
+2022-11-16 23:27:55 INFO  My Logs:32 - User lands on to the page
+2022-11-16 23:27:55 INFO  My Logs:38 - User validates the count of search results
+2022-11-16 23:27:55 INFO  My Logs:46 - User sorts products on the basis of rating in descending order
+2022-11-16 23:28:47 INFO  My Logs:52 - User prints the products names and ratings
+2022-11-16 23:28:47 INFO  My Logs:56 - Jacket Name : Ingrid Running Jacket , Review Stars : 4.5*
+2022-11-16 23:28:47 INFO  My Logs:56 - Jacket Name : Juno Jacket , Review Stars : 4.3*
+2022-11-16 23:28:47 INFO  My Logs:56 - Jacket Name : Neve Studio Dance Jacket , Review Stars : 4.3*
+2022-11-16 23:28:47 INFO  My Logs:56 - Jacket Name : Jade Yoga Jacket , Review Stars : 4.3*
+2022-11-16 23:28:47 INFO  My Logs:56 - Jacket Name : Riona Full Zip Jacket , Review Stars : 4.3*
+2022-11-16 23:28:47 INFO  My Logs:56 - Jacket Name : Augusta Pullover Jacket , Review Stars : 4.3*
+2022-11-16 23:28:47 INFO  My Logs:56 - Jacket Name : Josie Yoga Jacket , Review Stars : 3.5*
+2022-11-16 23:28:47 INFO  My Logs:56 - Jacket Name : Inez Full Zip Jacket , Review Stars : 3.3*
+2022-11-16 23:28:47 INFO  My Logs:56 - Jacket Name : Stellar Solar Jacket , Review Stars : 3.3*
+2022-11-16 23:28:47 INFO  My Logs:56 - Jacket Name : Nadia Elements Shell , Review Stars : 3*
+2022-11-16 23:28:47 INFO  My Logs:56 - Jacket Name : Adrienne Trek Jacket , Review Stars : 3*
+2022-11-16 23:28:47 INFO  My Logs:56 - Jacket Name : Olivia 1/4 Zip Light Jacket , Review Stars : 0*
+2022-11-16 23:28:47 INFO  My Logs:62 - User clicks on Price tab
+2022-11-16 23:28:48 INFO  My Logs:68 - User selects the price range
+2022-11-16 23:31:52 INFO  My Logs:74 - User validates the count of products match
+2022-11-16 23:32:13 INFO  My Logs:81 - User validates the products falling under the range
+2022-11-16 23:34:28 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 23:34:37 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-16 23:34:38 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-16 23:34:38 INFO  My Logs:34 - User hovers over section
+2022-11-16 23:34:38 INFO  My Logs:40 - User clicks on the option
+2022-11-16 23:34:41 INFO  My Logs:32 - User lands on to the page
+2022-11-16 23:34:41 INFO  My Logs:38 - User validates the count of search results
+2022-11-16 23:34:41 INFO  My Logs:46 - User sorts products on the basis of rating in descending order
+2022-11-16 23:35:33 INFO  My Logs:52 - User prints the products names and ratings
+2022-11-16 23:35:33 INFO  My Logs:56 - Jacket Name : Ingrid Running Jacket , Review Stars : 4.5*
+2022-11-16 23:35:33 INFO  My Logs:56 - Jacket Name : Juno Jacket , Review Stars : 4.3*
+2022-11-16 23:35:33 INFO  My Logs:56 - Jacket Name : Neve Studio Dance Jacket , Review Stars : 4.3*
+2022-11-16 23:35:33 INFO  My Logs:56 - Jacket Name : Jade Yoga Jacket , Review Stars : 4.3*
+2022-11-16 23:35:33 INFO  My Logs:56 - Jacket Name : Riona Full Zip Jacket , Review Stars : 4.3*
+2022-11-16 23:35:33 INFO  My Logs:56 - Jacket Name : Augusta Pullover Jacket , Review Stars : 4.3*
+2022-11-16 23:35:33 INFO  My Logs:56 - Jacket Name : Josie Yoga Jacket , Review Stars : 3.5*
+2022-11-16 23:35:33 INFO  My Logs:56 - Jacket Name : Inez Full Zip Jacket , Review Stars : 3.3*
+2022-11-16 23:35:33 INFO  My Logs:56 - Jacket Name : Stellar Solar Jacket , Review Stars : 3.3*
+2022-11-16 23:35:33 INFO  My Logs:56 - Jacket Name : Nadia Elements Shell , Review Stars : 3*
+2022-11-16 23:35:33 INFO  My Logs:56 - Jacket Name : Adrienne Trek Jacket , Review Stars : 3*
+2022-11-16 23:35:33 INFO  My Logs:56 - Jacket Name : Olivia 1/4 Zip Light Jacket , Review Stars : 0*
+2022-11-16 23:35:33 INFO  My Logs:62 - User clicks on Price tab
+2022-11-16 23:35:34 INFO  My Logs:68 - User selects the price range
+2022-11-16 23:35:35 INFO  My Logs:74 - User validates the count of products match
+2022-11-16 23:41:03 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 23:41:14 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-16 23:41:15 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-16 23:41:15 INFO  My Logs:34 - User hovers over section
+2022-11-16 23:41:15 INFO  My Logs:40 - User clicks on the option
+2022-11-16 23:41:17 INFO  My Logs:32 - User lands on to the page
+2022-11-16 23:41:18 INFO  My Logs:38 - User validates the count of search results
+2022-11-16 23:41:18 INFO  My Logs:46 - User sorts products on the basis of rating in descending order
+2022-11-16 23:42:10 INFO  My Logs:52 - User prints the products names and ratings
+2022-11-16 23:42:10 INFO  My Logs:56 - Jacket Name : Ingrid Running Jacket , Review Stars : 4.5*
+2022-11-16 23:42:10 INFO  My Logs:56 - Jacket Name : Juno Jacket , Review Stars : 4.3*
+2022-11-16 23:42:10 INFO  My Logs:56 - Jacket Name : Neve Studio Dance Jacket , Review Stars : 4.3*
+2022-11-16 23:42:10 INFO  My Logs:56 - Jacket Name : Jade Yoga Jacket , Review Stars : 4.3*
+2022-11-16 23:42:10 INFO  My Logs:56 - Jacket Name : Riona Full Zip Jacket , Review Stars : 4.3*
+2022-11-16 23:42:10 INFO  My Logs:56 - Jacket Name : Augusta Pullover Jacket , Review Stars : 4.3*
+2022-11-16 23:42:10 INFO  My Logs:56 - Jacket Name : Josie Yoga Jacket , Review Stars : 3.5*
+2022-11-16 23:42:10 INFO  My Logs:56 - Jacket Name : Inez Full Zip Jacket , Review Stars : 3.3*
+2022-11-16 23:42:10 INFO  My Logs:56 - Jacket Name : Stellar Solar Jacket , Review Stars : 3.3*
+2022-11-16 23:42:10 INFO  My Logs:56 - Jacket Name : Nadia Elements Shell , Review Stars : 3*
+2022-11-16 23:42:10 INFO  My Logs:56 - Jacket Name : Adrienne Trek Jacket , Review Stars : 3*
+2022-11-16 23:42:10 INFO  My Logs:56 - Jacket Name : Olivia 1/4 Zip Light Jacket , Review Stars : 0*
+2022-11-16 23:42:10 INFO  My Logs:62 - User clicks on Price tab
+2022-11-16 23:42:11 INFO  My Logs:68 - User selects the price range
+2022-11-16 23:42:12 INFO  My Logs:75 - User validates the count of products match
+2022-11-16 23:43:11 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 23:43:21 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-16 23:43:21 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-16 23:43:21 INFO  My Logs:34 - User hovers over section
+2022-11-16 23:43:22 INFO  My Logs:40 - User clicks on the option
+2022-11-16 23:43:24 INFO  My Logs:32 - User lands on to the page
+2022-11-16 23:43:24 INFO  My Logs:38 - User validates the count of search results
+2022-11-16 23:43:24 INFO  My Logs:46 - User sorts products on the basis of rating in descending order
+2022-11-16 23:44:16 INFO  My Logs:52 - User prints the products names and ratings
+2022-11-16 23:44:16 INFO  My Logs:56 - Jacket Name : Ingrid Running Jacket , Review Stars : 4.5*
+2022-11-16 23:44:16 INFO  My Logs:56 - Jacket Name : Juno Jacket , Review Stars : 4.3*
+2022-11-16 23:44:16 INFO  My Logs:56 - Jacket Name : Neve Studio Dance Jacket , Review Stars : 4.3*
+2022-11-16 23:44:16 INFO  My Logs:56 - Jacket Name : Jade Yoga Jacket , Review Stars : 4.3*
+2022-11-16 23:44:16 INFO  My Logs:56 - Jacket Name : Riona Full Zip Jacket , Review Stars : 4.3*
+2022-11-16 23:44:16 INFO  My Logs:56 - Jacket Name : Augusta Pullover Jacket , Review Stars : 4.3*
+2022-11-16 23:44:16 INFO  My Logs:56 - Jacket Name : Josie Yoga Jacket , Review Stars : 3.5*
+2022-11-16 23:44:16 INFO  My Logs:56 - Jacket Name : Inez Full Zip Jacket , Review Stars : 3.3*
+2022-11-16 23:44:16 INFO  My Logs:56 - Jacket Name : Stellar Solar Jacket , Review Stars : 3.3*
+2022-11-16 23:44:16 INFO  My Logs:56 - Jacket Name : Nadia Elements Shell , Review Stars : 3*
+2022-11-16 23:44:16 INFO  My Logs:56 - Jacket Name : Adrienne Trek Jacket , Review Stars : 3*
+2022-11-16 23:44:16 INFO  My Logs:56 - Jacket Name : Olivia 1/4 Zip Light Jacket , Review Stars : 0*
+2022-11-16 23:44:16 INFO  My Logs:62 - User clicks on Price tab
+2022-11-16 23:44:17 INFO  My Logs:68 - User selects the price range
+2022-11-16 23:44:19 INFO  My Logs:71 - 3
+2022-11-16 23:44:19 INFO  My Logs:77 - User validates the count of products match
+2022-11-16 23:46:43 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 23:46:53 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-16 23:46:53 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-16 23:46:53 INFO  My Logs:34 - User hovers over section
+2022-11-16 23:46:54 INFO  My Logs:40 - User clicks on the option
+2022-11-16 23:46:56 INFO  My Logs:32 - User lands on to the page
+2022-11-16 23:46:56 INFO  My Logs:62 - User clicks on Price tab
+2022-11-16 23:46:56 INFO  My Logs:68 - User selects the price range
+2022-11-16 23:46:58 INFO  My Logs:76 - User validates the count of products match
+2022-11-16 23:47:33 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 23:47:43 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-16 23:47:44 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-16 23:47:44 INFO  My Logs:34 - User hovers over section
+2022-11-16 23:47:44 INFO  My Logs:40 - User clicks on the option
+2022-11-16 23:47:46 INFO  My Logs:32 - User lands on to the page
+2022-11-16 23:47:47 INFO  My Logs:62 - User clicks on Price tab
+2022-11-16 23:47:47 INFO  My Logs:68 - User selects the price range
+2022-11-16 23:47:49 INFO  My Logs:76 - User validates the count of products match
+2022-11-16 23:49:31 INFO  My Logs:83 - User validates the products falling under the range
+2022-11-16 23:50:58 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 23:51:07 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-16 23:51:07 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-16 23:51:07 INFO  My Logs:34 - User hovers over section
+2022-11-16 23:51:07 INFO  My Logs:40 - User clicks on the option
+2022-11-16 23:51:10 INFO  My Logs:32 - User lands on to the page
+2022-11-16 23:51:10 INFO  My Logs:62 - User clicks on Price tab
+2022-11-16 23:51:10 INFO  My Logs:68 - User selects the price range
+2022-11-16 23:51:12 INFO  My Logs:76 - User validates the count of products match
+2022-11-16 23:52:44 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 23:52:53 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-16 23:52:54 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-16 23:52:54 INFO  My Logs:34 - User hovers over section
+2022-11-16 23:52:54 INFO  My Logs:40 - User clicks on the option
+2022-11-16 23:52:57 INFO  My Logs:32 - User lands on to the page
+2022-11-16 23:52:57 INFO  My Logs:62 - User clicks on Price tab
+2022-11-16 23:52:57 INFO  My Logs:68 - User selects the price range
+2022-11-16 23:53:00 INFO  My Logs:76 - User validates the count of products match
+2022-11-16 23:53:00 INFO  My Logs:84 - User validates the products falling under the range
+2022-11-16 23:58:14 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 23:58:22 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-16 23:58:23 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-16 23:58:23 INFO  My Logs:34 - User hovers over section
+2022-11-16 23:58:23 INFO  My Logs:40 - User clicks on the option
+2022-11-16 23:58:26 INFO  My Logs:32 - User lands on to the page
+2022-11-16 23:58:26 INFO  My Logs:62 - User clicks on Price tab
+2022-11-16 23:58:26 INFO  My Logs:68 - User selects the price range
+2022-11-16 23:58:28 INFO  My Logs:76 - User validates the count of products match
+2022-11-16 23:58:42 INFO  My Logs:27 - Logger is initialized..
+2022-11-16 23:58:51 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-16 23:58:51 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-16 23:58:51 INFO  My Logs:34 - User hovers over section
+2022-11-16 23:58:52 INFO  My Logs:40 - User clicks on the option
+2022-11-16 23:58:54 INFO  My Logs:32 - User lands on to the page
+2022-11-16 23:58:54 INFO  My Logs:62 - User clicks on Price tab
+2022-11-16 23:58:55 INFO  My Logs:68 - User selects the price range
+2022-11-16 23:58:56 INFO  My Logs:76 - User validates the count of products match
+2022-11-17 00:01:45 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 00:01:54 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 00:01:54 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 00:01:54 INFO  My Logs:34 - User hovers over section
+2022-11-17 00:01:55 INFO  My Logs:40 - User clicks on the option
+2022-11-17 00:01:57 INFO  My Logs:32 - User lands on to the page
+2022-11-17 00:01:57 INFO  My Logs:62 - User clicks on Price tab
+2022-11-17 00:01:57 INFO  My Logs:68 - User selects the price range
+2022-11-17 00:01:59 INFO  My Logs:76 - User validates the count of products match
+2022-11-17 00:02:56 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 00:03:06 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 00:03:07 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 00:03:07 INFO  My Logs:34 - User hovers over section
+2022-11-17 00:03:07 INFO  My Logs:40 - User clicks on the option
+2022-11-17 00:03:10 INFO  My Logs:32 - User lands on to the page
+2022-11-17 00:03:10 INFO  My Logs:62 - User clicks on Price tab
+2022-11-17 00:03:10 INFO  My Logs:68 - User selects the price range
+2022-11-17 00:03:12 INFO  My Logs:75 - User validates the count of products match
+2022-11-17 00:04:58 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 00:05:09 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 00:05:09 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 00:05:09 INFO  My Logs:34 - User hovers over section
+2022-11-17 00:05:10 INFO  My Logs:40 - User clicks on the option
+2022-11-17 00:05:13 INFO  My Logs:32 - User lands on to the page
+2022-11-17 00:05:13 INFO  My Logs:62 - User clicks on Price tab
+2022-11-17 00:05:13 INFO  My Logs:68 - User selects the price range
+2022-11-17 00:05:15 INFO  My Logs:75 - User validates the count of products match
+2022-11-17 00:05:16 INFO  My Logs:83 - User validates the products falling under the range
+2022-11-17 00:05:59 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 00:06:07 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 00:06:07 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 00:06:08 INFO  My Logs:34 - User hovers over section
+2022-11-17 00:06:08 INFO  My Logs:40 - User clicks on the option
+2022-11-17 00:06:10 INFO  My Logs:32 - User lands on to the page
+2022-11-17 00:06:11 INFO  My Logs:62 - User clicks on Price tab
+2022-11-17 00:06:11 INFO  My Logs:68 - User selects the price range
+2022-11-17 00:06:12 INFO  My Logs:75 - User validates the count of products match
+2022-11-17 00:07:39 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 00:07:47 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 00:07:48 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 00:07:48 INFO  My Logs:34 - User hovers over section
+2022-11-17 00:07:48 INFO  My Logs:40 - User clicks on the option
+2022-11-17 00:07:51 INFO  My Logs:32 - User lands on to the page
+2022-11-17 00:07:51 INFO  My Logs:62 - User clicks on Price tab
+2022-11-17 00:07:51 INFO  My Logs:68 - User selects the price range
+2022-11-17 00:07:53 INFO  My Logs:75 - User validates the count of products match
+2022-11-17 00:08:50 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 00:08:58 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 00:08:58 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 00:08:58 INFO  My Logs:34 - User hovers over section
+2022-11-17 00:08:59 INFO  My Logs:40 - User clicks on the option
+2022-11-17 00:09:01 INFO  My Logs:32 - User lands on to the page
+2022-11-17 00:09:01 INFO  My Logs:62 - User clicks on Price tab
+2022-11-17 00:09:02 INFO  My Logs:68 - User selects the price range
+2022-11-17 00:09:03 INFO  My Logs:75 - User validates the count of products match
+2022-11-17 00:11:31 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 00:11:40 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 00:11:40 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 00:11:41 INFO  My Logs:34 - User hovers over section
+2022-11-17 00:11:53 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 00:12:01 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 00:12:02 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 00:12:02 INFO  My Logs:34 - User hovers over section
+2022-11-17 00:12:02 INFO  My Logs:40 - User clicks on the option
+2022-11-17 00:12:04 INFO  My Logs:32 - User lands on to the page
+2022-11-17 00:12:05 INFO  My Logs:62 - User clicks on Price tab
+2022-11-17 00:12:05 INFO  My Logs:68 - User selects the price range
+2022-11-17 00:12:07 INFO  My Logs:75 - User validates the count of products match
+2022-11-17 00:16:10 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 00:16:19 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 00:16:19 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 00:16:20 INFO  My Logs:34 - User hovers over section
+2022-11-17 00:16:20 INFO  My Logs:40 - User clicks on the option
+2022-11-17 00:16:22 INFO  My Logs:32 - User lands on to the page
+2022-11-17 00:16:23 INFO  My Logs:62 - User clicks on Price tab
+2022-11-17 00:16:23 INFO  My Logs:68 - User selects the price range
+2022-11-17 00:16:25 INFO  My Logs:75 - User validates the count of products match
+2022-11-17 00:16:51 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 00:16:59 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 00:17:00 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 00:17:00 INFO  My Logs:34 - User hovers over section
+2022-11-17 00:17:00 INFO  My Logs:40 - User clicks on the option
+2022-11-17 00:17:02 INFO  My Logs:32 - User lands on to the page
+2022-11-17 00:17:02 INFO  My Logs:62 - User clicks on Price tab
+2022-11-17 00:17:03 INFO  My Logs:68 - User selects the price range
+2022-11-17 00:17:04 INFO  My Logs:75 - User validates the count of products match
+2022-11-17 00:17:26 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 00:17:34 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 00:17:34 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 00:17:35 INFO  My Logs:34 - User hovers over section
+2022-11-17 00:17:46 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 00:17:54 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 00:17:54 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 00:17:54 INFO  My Logs:34 - User hovers over section
+2022-11-17 00:17:54 INFO  My Logs:40 - User clicks on the option
+2022-11-17 00:17:56 INFO  My Logs:32 - User lands on to the page
+2022-11-17 00:17:57 INFO  My Logs:62 - User clicks on Price tab
+2022-11-17 00:17:57 INFO  My Logs:68 - User selects the price range
+2022-11-17 00:17:59 INFO  My Logs:75 - User validates the count of products match
+2022-11-17 00:18:22 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 00:18:29 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 00:18:30 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 00:18:30 INFO  My Logs:34 - User hovers over section
+2022-11-17 00:18:30 INFO  My Logs:40 - User clicks on the option
+2022-11-17 00:18:33 INFO  My Logs:32 - User lands on to the page
+2022-11-17 00:18:33 INFO  My Logs:62 - User clicks on Price tab
+2022-11-17 00:18:33 INFO  My Logs:68 - User selects the price range
+2022-11-17 00:18:35 INFO  My Logs:75 - User validates the count of products match
+2022-11-17 00:19:31 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 00:19:40 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 00:19:40 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 00:19:40 INFO  My Logs:34 - User hovers over section
+2022-11-17 00:19:41 INFO  My Logs:40 - User clicks on the option
+2022-11-17 00:19:43 INFO  My Logs:32 - User lands on to the page
+2022-11-17 00:19:43 INFO  My Logs:62 - User clicks on Price tab
+2022-11-17 00:19:43 INFO  My Logs:68 - User selects the price range
+2022-11-17 00:19:45 INFO  My Logs:75 - User validates the count of products match
+2022-11-17 00:19:45 INFO  My Logs:83 - User validates the products falling under the range
+2022-11-17 00:20:19 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 00:20:27 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 00:20:28 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 00:20:28 INFO  My Logs:34 - User hovers over section
+2022-11-17 00:20:28 INFO  My Logs:40 - User clicks on the option
+2022-11-17 00:20:30 INFO  My Logs:32 - User lands on to the page
+2022-11-17 00:20:31 INFO  My Logs:62 - User clicks on Price tab
+2022-11-17 00:20:31 INFO  My Logs:68 - User selects the price range
+2022-11-17 00:20:33 INFO  My Logs:75 - User validates the count of products match
+2022-11-17 00:20:59 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 00:21:07 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 00:21:08 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 00:21:08 INFO  My Logs:34 - User hovers over section
+2022-11-17 00:21:08 INFO  My Logs:40 - User clicks on the option
+2022-11-17 00:21:10 INFO  My Logs:32 - User lands on to the page
+2022-11-17 00:21:10 INFO  My Logs:62 - User clicks on Price tab
+2022-11-17 00:21:11 INFO  My Logs:68 - User selects the price range
+2022-11-17 00:21:13 INFO  My Logs:75 - User validates the count of products match
+2022-11-17 00:21:13 INFO  My Logs:83 - User validates the products falling under the range
+2022-11-17 12:02:59 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 12:03:08 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 12:03:08 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 12:03:09 INFO  My Logs:34 - User hovers over section
+2022-11-17 12:03:09 INFO  My Logs:40 - User clicks on the option
+2022-11-17 12:03:12 INFO  My Logs:32 - User lands on to the page
+2022-11-17 12:03:12 INFO  My Logs:63 - User clicks on Price tab
+2022-11-17 12:03:12 INFO  My Logs:69 - User selects the price range
+2022-11-17 12:03:15 INFO  My Logs:76 - User validates the count of products match
+2022-11-17 12:03:48 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 12:03:57 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 12:03:58 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 12:03:58 INFO  My Logs:34 - User hovers over section
+2022-11-17 12:03:58 INFO  My Logs:40 - User clicks on the option
+2022-11-17 12:04:01 INFO  My Logs:32 - User lands on to the page
+2022-11-17 12:04:01 INFO  My Logs:63 - User clicks on Price tab
+2022-11-17 12:04:01 INFO  My Logs:69 - User selects the price range
+2022-11-17 12:04:03 INFO  My Logs:84 - User validates the products falling under the range
+2022-11-17 12:05:27 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 12:05:36 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 12:05:36 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 12:05:36 INFO  My Logs:34 - User hovers over section
+2022-11-17 12:05:37 INFO  My Logs:40 - User clicks on the option
+2022-11-17 12:05:39 INFO  My Logs:32 - User lands on to the page
+2022-11-17 12:05:39 INFO  My Logs:63 - User clicks on Price tab
+2022-11-17 12:05:39 INFO  My Logs:69 - User selects the price range
+2022-11-17 12:05:41 INFO  My Logs:84 - User validates the products falling under the range
+2022-11-17 12:07:27 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 12:07:36 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 12:07:36 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 12:07:36 INFO  My Logs:34 - User hovers over section
+2022-11-17 12:07:36 INFO  My Logs:40 - User clicks on the option
+2022-11-17 12:07:39 INFO  My Logs:32 - User lands on to the page
+2022-11-17 12:07:39 INFO  My Logs:63 - User clicks on Price tab
+2022-11-17 12:07:39 INFO  My Logs:69 - User selects the price range
+2022-11-17 12:07:41 INFO  My Logs:84 - User validates the products falling under the range
+2022-11-17 12:07:41 INFO  My Logs:91 - User counts the total products whose stars are equal or greater than four
+2022-11-17 12:07:42 INFO  My Logs:92 - 3
+2022-11-17 12:33:33 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 12:33:41 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 12:33:42 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 12:33:42 INFO  My Logs:34 - User hovers over section
+2022-11-17 12:33:42 INFO  My Logs:40 - User clicks on the option
+2022-11-17 12:33:44 INFO  My Logs:32 - User lands on to the page
+2022-11-17 12:33:45 INFO  My Logs:63 - User clicks on Price tab
+2022-11-17 12:33:45 INFO  My Logs:69 - User selects the price range
+2022-11-17 12:33:47 INFO  My Logs:84 - User validates the products falling under the range
+2022-11-17 12:33:47 INFO  My Logs:91 - User counts the total products whose stars are equal or greater than four
+2022-11-17 12:33:47 INFO  My Logs:92 - Total Number of Jackets after applying price range : 3
+2022-11-17 12:33:47 INFO  My Logs:93 - Total Number of Jackets whose stars are equal or greater than four : 2
+2022-11-17 12:33:47 INFO  My Logs:98 - User prints the jackets name and price
+2022-11-17 12:33:48 INFO  My Logs:102 - Jacket Name : Neve Studio Dance Jacket , Jacket Price : $69.00
+2022-11-17 12:33:48 INFO  My Logs:102 - Jacket Name : Riona Full Zip Jacket , Jacket Price : $60.00
+2022-11-17 12:40:13 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 12:40:22 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 12:40:22 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 12:40:23 INFO  My Logs:34 - User hovers over section
+2022-11-17 12:40:23 INFO  My Logs:40 - User clicks on the option
+2022-11-17 12:40:25 INFO  My Logs:32 - User lands on to the page
+2022-11-17 12:40:25 INFO  My Logs:38 - User validates the count of search results
+2022-11-17 12:40:25 INFO  My Logs:46 - User sorts products on the basis of rating in descending order
+2022-11-17 12:43:48 INFO  My Logs:52 - User prints the products names and ratings
+2022-11-17 12:43:48 INFO  My Logs:57 - Jacket Name : Ingrid Running Jacket , Review Stars : 4.5*
+2022-11-17 12:43:48 INFO  My Logs:57 - Jacket Name : Juno Jacket , Review Stars : 4.3*
+2022-11-17 12:43:48 INFO  My Logs:57 - Jacket Name : Neve Studio Dance Jacket , Review Stars : 4.3*
+2022-11-17 12:43:48 INFO  My Logs:57 - Jacket Name : Jade Yoga Jacket , Review Stars : 4.3*
+2022-11-17 12:43:48 INFO  My Logs:57 - Jacket Name : Riona Full Zip Jacket , Review Stars : 4.3*
+2022-11-17 12:43:48 INFO  My Logs:57 - Jacket Name : Augusta Pullover Jacket , Review Stars : 4.3*
+2022-11-17 12:43:48 INFO  My Logs:57 - Jacket Name : Josie Yoga Jacket , Review Stars : 3.5*
+2022-11-17 12:43:48 INFO  My Logs:57 - Jacket Name : Inez Full Zip Jacket , Review Stars : 3.3*
+2022-11-17 12:43:48 INFO  My Logs:57 - Jacket Name : Stellar Solar Jacket , Review Stars : 3.3*
+2022-11-17 12:43:48 INFO  My Logs:57 - Jacket Name : Nadia Elements Shell , Review Stars : 3*
+2022-11-17 12:43:48 INFO  My Logs:57 - Jacket Name : Adrienne Trek Jacket , Review Stars : 3*
+2022-11-17 12:43:48 INFO  My Logs:57 - Jacket Name : Olivia 1/4 Zip Light Jacket , Review Stars : 0*
+2022-11-17 12:43:48 INFO  My Logs:63 - User clicks on Price tab
+2022-11-17 12:43:48 INFO  My Logs:69 - User selects the price range
+2022-11-17 12:43:50 INFO  My Logs:76 - User validates the products falling under the range
+2022-11-17 12:43:51 INFO  My Logs:83 - User counts the total products whose stars are equal or greater than four
+2022-11-17 12:43:51 INFO  My Logs:84 - Total Number of Jackets after applying price range : 3
+2022-11-17 12:43:52 INFO  My Logs:85 - Total Number of Jackets whose stars are equal or greater than four : 2
+2022-11-17 12:43:52 INFO  My Logs:90 - User prints the jackets name and price
+2022-11-17 12:43:52 INFO  My Logs:94 - Jacket Name : Neve Studio Dance Jacket , Jacket Price : $69.00
+2022-11-17 12:43:52 INFO  My Logs:94 - Jacket Name : Riona Full Zip Jacket , Jacket Price : $60.00
+2022-11-17 12:54:12 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 12:54:21 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 12:54:22 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 12:54:22 INFO  My Logs:34 - User hovers over section
+2022-11-17 12:54:37 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 12:54:45 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 12:54:45 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 12:54:46 INFO  My Logs:34 - User hovers over section
+2022-11-17 12:55:34 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 12:55:42 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 12:55:42 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 12:55:43 INFO  My Logs:34 - User hovers over section
+2022-11-17 12:59:39 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 12:59:47 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 12:59:47 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 12:59:48 INFO  My Logs:34 - User hovers over section
+2022-11-17 13:00:18 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 13:00:26 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 13:00:27 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 13:00:27 INFO  My Logs:34 - User hovers over section
+2022-11-17 13:04:45 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 13:04:54 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 13:04:55 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 13:04:55 INFO  My Logs:34 - User hovers over section
+2022-11-17 13:08:24 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 13:08:32 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 13:08:33 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 13:08:33 INFO  My Logs:34 - User hovers over section
+2022-11-17 13:08:33 INFO  My Logs:40 - User clicks on the option
+2022-11-17 13:08:35 INFO  My Logs:32 - User lands on to the page
+2022-11-17 13:08:36 INFO  My Logs:38 - User validates the count of search results
+2022-11-17 13:08:36 INFO  My Logs:46 - User sorts products on the basis of rating in descending order
+2022-11-17 13:11:58 INFO  My Logs:52 - User prints the products names and ratings
+2022-11-17 13:11:58 INFO  My Logs:57 - Jacket Name : Ingrid Running Jacket , Review Stars : 4.5*
+2022-11-17 13:11:58 INFO  My Logs:57 - Jacket Name : Juno Jacket , Review Stars : 4.3*
+2022-11-17 13:11:58 INFO  My Logs:57 - Jacket Name : Neve Studio Dance Jacket , Review Stars : 4.3*
+2022-11-17 13:11:58 INFO  My Logs:57 - Jacket Name : Jade Yoga Jacket , Review Stars : 4.3*
+2022-11-17 13:11:58 INFO  My Logs:57 - Jacket Name : Riona Full Zip Jacket , Review Stars : 4.3*
+2022-11-17 13:11:58 INFO  My Logs:57 - Jacket Name : Augusta Pullover Jacket , Review Stars : 4.3*
+2022-11-17 13:11:58 INFO  My Logs:57 - Jacket Name : Josie Yoga Jacket , Review Stars : 3.5*
+2022-11-17 13:11:58 INFO  My Logs:57 - Jacket Name : Inez Full Zip Jacket , Review Stars : 3.3*
+2022-11-17 13:11:58 INFO  My Logs:57 - Jacket Name : Stellar Solar Jacket , Review Stars : 3.3*
+2022-11-17 13:11:58 INFO  My Logs:57 - Jacket Name : Nadia Elements Shell , Review Stars : 3*
+2022-11-17 13:11:58 INFO  My Logs:57 - Jacket Name : Adrienne Trek Jacket , Review Stars : 3*
+2022-11-17 13:11:58 INFO  My Logs:57 - Jacket Name : Olivia 1/4 Zip Light Jacket , Review Stars : 0*
+2022-11-17 13:11:58 INFO  My Logs:63 - User clicks on Price tab
+2022-11-17 13:11:58 INFO  My Logs:69 - User selects the price range
+2022-11-17 13:12:01 INFO  My Logs:76 - User validates the products falling under the range
+2022-11-17 13:12:02 INFO  My Logs:83 - User counts the total products whose stars are equal or greater than four
+2022-11-17 13:12:02 INFO  My Logs:84 - Total Number of Jackets after applying price range : 3
+2022-11-17 13:15:22 INFO  My Logs:85 - Total Number of Jackets whose stars are equal or greater than four : 1
+2022-11-17 13:15:22 INFO  My Logs:90 - User prints the jackets name and price
+2022-11-17 13:18:43 INFO  My Logs:94 - Jacket Name : Juno Jacket , Jacket Price : $77.00
+2022-11-17 13:43:33 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 13:43:42 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 13:43:42 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 13:43:42 INFO  My Logs:34 - User hovers over section
+2022-11-17 13:43:43 INFO  My Logs:40 - User clicks on the option
+2022-11-17 13:49:13 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 13:49:20 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 13:49:21 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 13:49:21 INFO  My Logs:34 - User hovers over section
+2022-11-17 13:49:22 INFO  My Logs:40 - User clicks on the option
+2022-11-17 13:49:25 INFO  My Logs:32 - User lands on to the page
+2022-11-17 13:49:25 INFO  My Logs:38 - User validates the count of search results
+2022-11-17 13:49:25 INFO  My Logs:46 - User sorts products on the basis of rating in descending order
+2022-11-17 13:59:11 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 13:59:21 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 13:59:22 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 13:59:22 INFO  My Logs:34 - User hovers over section
+2022-11-17 13:59:22 INFO  My Logs:40 - User clicks on the option
+2022-11-17 13:59:24 INFO  My Logs:32 - User lands on to the page
+2022-11-17 13:59:25 INFO  My Logs:38 - User validates the count of search results
+2022-11-17 13:59:25 INFO  My Logs:46 - User sorts products on the basis of rating in descending order
+2022-11-17 14:06:24 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 14:06:32 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 14:06:33 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 14:06:33 INFO  My Logs:34 - User hovers over section
+2022-11-17 14:06:33 INFO  My Logs:40 - User clicks on the option
+2022-11-17 14:06:35 INFO  My Logs:32 - User lands on to the page
+2022-11-17 14:06:36 INFO  My Logs:38 - User validates the count of search results
+2022-11-17 14:06:36 INFO  My Logs:46 - User sorts products on the basis of rating in descending order
+2022-11-17 14:14:03 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 14:14:11 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 14:14:11 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 14:14:12 INFO  My Logs:34 - User hovers over section
+2022-11-17 14:14:12 INFO  My Logs:40 - User clicks on the option
+2022-11-17 14:14:14 INFO  My Logs:32 - User lands on to the page
+2022-11-17 14:14:14 INFO  My Logs:38 - User validates the count of search results
+2022-11-17 14:14:15 INFO  My Logs:46 - User sorts products on the basis of rating in descending order
+2022-11-17 14:33:58 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 14:34:11 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 14:34:12 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 14:34:13 INFO  My Logs:34 - User hovers over section
+2022-11-17 14:34:13 INFO  My Logs:40 - User clicks on the option
+2022-11-17 14:34:16 INFO  My Logs:32 - User lands on to the page
+2022-11-17 14:34:17 INFO  My Logs:38 - User validates the count of search results
+2022-11-17 14:34:17 INFO  My Logs:46 - User sorts products on the basis of rating in descending order
+2022-11-17 14:37:39 INFO  My Logs:52 - User prints the products names and ratings
+2022-11-17 14:37:39 INFO  My Logs:57 - Jacket Name : Olivia 1/4 Zip Light Jacket , Review Stars : 0*
+2022-11-17 14:37:39 INFO  My Logs:57 - Jacket Name : Juno Jacket , Review Stars : 0*
+2022-11-17 14:37:39 INFO  My Logs:57 - Jacket Name : Neve Studio Dance Jacket , Review Stars : 0*
+2022-11-17 14:37:39 INFO  My Logs:57 - Jacket Name : Nadia Elements Shell , Review Stars : 0*
+2022-11-17 14:37:39 INFO  My Logs:57 - Jacket Name : Jade Yoga Jacket , Review Stars : 0*
+2022-11-17 14:37:39 INFO  My Logs:57 - Jacket Name : Adrienne Trek Jacket , Review Stars : 0*
+2022-11-17 14:37:39 INFO  My Logs:57 - Jacket Name : Inez Full Zip Jacket , Review Stars : 0*
+2022-11-17 14:37:39 INFO  My Logs:57 - Jacket Name : Riona Full Zip Jacket , Review Stars : 0*
+2022-11-17 14:37:39 INFO  My Logs:57 - Jacket Name : Ingrid Running Jacket , Review Stars : 0*
+2022-11-17 14:37:39 INFO  My Logs:57 - Jacket Name : Augusta Pullover Jacket , Review Stars : 0*
+2022-11-17 14:37:39 INFO  My Logs:57 - Jacket Name : Josie Yoga Jacket , Review Stars : 0*
+2022-11-17 14:37:39 INFO  My Logs:57 - Jacket Name : Stellar Solar Jacket , Review Stars : 0*
+2022-11-17 15:10:11 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 15:10:24 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 15:10:24 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 15:10:25 INFO  My Logs:34 - User hovers over section
+2022-11-17 15:10:25 INFO  My Logs:40 - User clicks on the option
+2022-11-17 15:10:28 INFO  My Logs:33 - User lands on to the page
+2022-11-17 15:10:29 INFO  My Logs:39 - User validates the count of search results
+2022-11-17 15:10:29 INFO  My Logs:47 - User sorts products on the basis of rating in descending order
+2022-11-17 15:13:54 INFO  My Logs:53 - User prints the products names and ratings
+2022-11-17 15:13:54 INFO  My Logs:58 - Jacket Name : Ingrid Running Jacket , Review Stars : 4.5*
+2022-11-17 15:13:54 INFO  My Logs:58 - Jacket Name : Juno Jacket , Review Stars : 4.3*
+2022-11-17 15:13:54 INFO  My Logs:58 - Jacket Name : Neve Studio Dance Jacket , Review Stars : 4.3*
+2022-11-17 15:13:54 INFO  My Logs:58 - Jacket Name : Jade Yoga Jacket , Review Stars : 4.3*
+2022-11-17 15:13:54 INFO  My Logs:58 - Jacket Name : Riona Full Zip Jacket , Review Stars : 4.3*
+2022-11-17 15:13:54 INFO  My Logs:58 - Jacket Name : Augusta Pullover Jacket , Review Stars : 4.3*
+2022-11-17 15:13:54 INFO  My Logs:58 - Jacket Name : Josie Yoga Jacket , Review Stars : 3.5*
+2022-11-17 15:13:54 INFO  My Logs:58 - Jacket Name : Inez Full Zip Jacket , Review Stars : 3.3*
+2022-11-17 15:13:54 INFO  My Logs:58 - Jacket Name : Stellar Solar Jacket , Review Stars : 3.3*
+2022-11-17 15:13:54 INFO  My Logs:58 - Jacket Name : Nadia Elements Shell , Review Stars : 3*
+2022-11-17 15:13:54 INFO  My Logs:58 - Jacket Name : Adrienne Trek Jacket , Review Stars : 3*
+2022-11-17 15:13:54 INFO  My Logs:58 - Jacket Name : Olivia 1/4 Zip Light Jacket , Review Stars : 0*
+2022-11-17 17:44:12 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 17:44:18 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 17:44:19 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 17:44:19 INFO  My Logs:34 - User hovers over section
+2022-11-17 17:44:46 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 17:44:51 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 17:44:52 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 17:44:52 INFO  My Logs:34 - User hovers over section
+2022-11-17 17:44:52 INFO  My Logs:40 - User clicks on the option
+2022-11-17 17:44:55 INFO  My Logs:33 - User lands on to the page
+2022-11-17 17:44:55 INFO  My Logs:39 - User validates the count of search results
+2022-11-17 17:44:55 INFO  My Logs:47 - User sorts products on the basis of rating in descending order
+2022-11-17 23:29:13 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 23:29:21 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 23:29:22 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 23:29:22 INFO  My Logs:34 - User hovers over section
+2022-11-17 23:29:22 INFO  My Logs:40 - User clicks on the option
+2022-11-17 23:29:25 INFO  My Logs:33 - User lands on to the page
+2022-11-17 23:29:25 INFO  My Logs:39 - User validates the count of search results
+2022-11-17 23:29:25 INFO  My Logs:47 - User sorts products on the basis of rating in descending order
+2022-11-17 23:32:46 INFO  My Logs:53 - User prints the products names and ratings
+2022-11-17 23:32:46 INFO  My Logs:58 - Jacket Name : Ingrid Running Jacket , Review Stars : 4.5*
+2022-11-17 23:32:46 INFO  My Logs:58 - Jacket Name : Juno Jacket , Review Stars : 4.3*
+2022-11-17 23:32:46 INFO  My Logs:58 - Jacket Name : Neve Studio Dance Jacket , Review Stars : 4.3*
+2022-11-17 23:32:46 INFO  My Logs:58 - Jacket Name : Jade Yoga Jacket , Review Stars : 4.3*
+2022-11-17 23:32:46 INFO  My Logs:58 - Jacket Name : Riona Full Zip Jacket , Review Stars : 4.3*
+2022-11-17 23:32:46 INFO  My Logs:58 - Jacket Name : Augusta Pullover Jacket , Review Stars : 4.3*
+2022-11-17 23:32:46 INFO  My Logs:58 - Jacket Name : Josie Yoga Jacket , Review Stars : 3.5*
+2022-11-17 23:32:46 INFO  My Logs:58 - Jacket Name : Inez Full Zip Jacket , Review Stars : 3.3*
+2022-11-17 23:32:46 INFO  My Logs:58 - Jacket Name : Stellar Solar Jacket , Review Stars : 3.3*
+2022-11-17 23:32:46 INFO  My Logs:58 - Jacket Name : Nadia Elements Shell , Review Stars : 3*
+2022-11-17 23:32:46 INFO  My Logs:58 - Jacket Name : Adrienne Trek Jacket , Review Stars : 3*
+2022-11-17 23:32:46 INFO  My Logs:58 - Jacket Name : Olivia 1/4 Zip Light Jacket , Review Stars : 0*
+2022-11-17 23:32:46 INFO  My Logs:64 - User clicks on Price tab
+2022-11-17 23:32:46 INFO  My Logs:70 - User selects the price range
+2022-11-17 23:32:48 INFO  My Logs:77 - User validates the products falling under the range
+2022-11-17 23:32:49 INFO  My Logs:84 - User counts the total products whose stars are equal or greater than four
+2022-11-17 23:32:49 INFO  My Logs:85 - Total Number of Jackets after applying price range : 3
+2022-11-17 23:52:12 INFO  My Logs:27 - Logger is initialized..
+2022-11-17 23:52:20 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-17 23:52:20 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-17 23:52:20 INFO  My Logs:34 - User hovers over section
+2022-11-17 23:52:21 INFO  My Logs:40 - User clicks on the option
+2022-11-17 23:52:23 INFO  My Logs:33 - User lands on to the page
+2022-11-17 23:52:23 INFO  My Logs:39 - User validates the count of search results
+2022-11-17 23:52:23 INFO  My Logs:47 - User sorts products on the basis of rating in descending order
+2022-11-17 23:55:45 INFO  My Logs:53 - User prints the products names and ratings
+2022-11-17 23:55:45 INFO  My Logs:58 - Jacket Name : Ingrid Running Jacket , Review Stars : 4.5*
+2022-11-17 23:55:45 INFO  My Logs:58 - Jacket Name : Juno Jacket , Review Stars : 4.3*
+2022-11-17 23:55:45 INFO  My Logs:58 - Jacket Name : Neve Studio Dance Jacket , Review Stars : 4.3*
+2022-11-17 23:55:45 INFO  My Logs:58 - Jacket Name : Jade Yoga Jacket , Review Stars : 4.3*
+2022-11-17 23:55:45 INFO  My Logs:58 - Jacket Name : Riona Full Zip Jacket , Review Stars : 4.3*
+2022-11-17 23:55:45 INFO  My Logs:58 - Jacket Name : Augusta Pullover Jacket , Review Stars : 4.3*
+2022-11-17 23:55:45 INFO  My Logs:58 - Jacket Name : Josie Yoga Jacket , Review Stars : 3.5*
+2022-11-17 23:55:45 INFO  My Logs:58 - Jacket Name : Inez Full Zip Jacket , Review Stars : 3.3*
+2022-11-17 23:55:45 INFO  My Logs:58 - Jacket Name : Stellar Solar Jacket , Review Stars : 3.3*
+2022-11-17 23:55:45 INFO  My Logs:58 - Jacket Name : Nadia Elements Shell , Review Stars : 3*
+2022-11-17 23:55:45 INFO  My Logs:58 - Jacket Name : Adrienne Trek Jacket , Review Stars : 3*
+2022-11-17 23:55:45 INFO  My Logs:58 - Jacket Name : Olivia 1/4 Zip Light Jacket , Review Stars : 0*
+2022-11-17 23:55:45 INFO  My Logs:64 - User clicks on Price tab
+2022-11-17 23:55:45 INFO  My Logs:70 - User selects the price range
+2022-11-17 23:55:47 INFO  My Logs:77 - User validates the products falling under the range
+2022-11-17 23:55:47 INFO  My Logs:84 - User counts the total products whose stars are equal or greater than four
+2022-11-17 23:55:47 INFO  My Logs:85 - Total Number of Jackets after applying price range : 3
+2022-11-18 00:08:35 INFO  My Logs:27 - Logger is initialized..
+2022-11-18 00:08:44 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-18 00:08:44 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-18 00:08:45 INFO  My Logs:34 - User hovers over section
+2022-11-18 00:08:45 INFO  My Logs:40 - User clicks on the option
+2022-11-18 00:08:47 INFO  My Logs:33 - User lands on to the page
+2022-11-18 00:08:47 INFO  My Logs:39 - User validates the count of search results
+2022-11-18 00:08:47 INFO  My Logs:47 - User sorts products on the basis of rating in descending order
+2022-11-18 00:12:09 INFO  My Logs:53 - User prints the products names and ratings
+2022-11-18 00:12:09 INFO  My Logs:58 - Jacket Name : Ingrid Running Jacket , Review Stars : 4.5*
+2022-11-18 00:12:09 INFO  My Logs:58 - Jacket Name : Juno Jacket , Review Stars : 4.3*
+2022-11-18 00:12:09 INFO  My Logs:58 - Jacket Name : Neve Studio Dance Jacket , Review Stars : 4.3*
+2022-11-18 00:12:09 INFO  My Logs:58 - Jacket Name : Jade Yoga Jacket , Review Stars : 4.3*
+2022-11-18 00:12:09 INFO  My Logs:58 - Jacket Name : Riona Full Zip Jacket , Review Stars : 4.3*
+2022-11-18 00:12:09 INFO  My Logs:58 - Jacket Name : Augusta Pullover Jacket , Review Stars : 4.3*
+2022-11-18 00:12:09 INFO  My Logs:58 - Jacket Name : Josie Yoga Jacket , Review Stars : 3.5*
+2022-11-18 00:12:09 INFO  My Logs:58 - Jacket Name : Inez Full Zip Jacket , Review Stars : 3.3*
+2022-11-18 00:12:09 INFO  My Logs:58 - Jacket Name : Stellar Solar Jacket , Review Stars : 3.3*
+2022-11-18 00:12:09 INFO  My Logs:58 - Jacket Name : Nadia Elements Shell , Review Stars : 3*
+2022-11-18 00:12:09 INFO  My Logs:58 - Jacket Name : Adrienne Trek Jacket , Review Stars : 3*
+2022-11-18 00:12:09 INFO  My Logs:58 - Jacket Name : Olivia 1/4 Zip Light Jacket , Review Stars : 0*
+2022-11-18 00:12:09 INFO  My Logs:64 - User clicks on Price tab
+2022-11-18 00:12:09 INFO  My Logs:70 - User selects the price range
+2022-11-18 00:12:11 INFO  My Logs:77 - User validates the products falling under the range
+2022-11-18 00:20:30 INFO  My Logs:27 - Logger is initialized..
+2022-11-18 00:20:38 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-18 00:20:39 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-18 00:20:39 INFO  My Logs:34 - User hovers over section
+2022-11-18 00:20:39 INFO  My Logs:40 - User clicks on the option
+2022-11-18 00:20:41 INFO  My Logs:33 - User lands on to the page
+2022-11-18 00:20:42 INFO  My Logs:39 - User validates the count of search results
+2022-11-18 00:20:42 INFO  My Logs:47 - User sorts products on the basis of rating in descending order
+2022-11-18 00:24:03 INFO  My Logs:53 - User prints the products names and ratings
+2022-11-18 00:24:03 INFO  My Logs:58 - Jacket Name : Ingrid Running Jacket , Review Stars : 4.5*
+2022-11-18 00:24:03 INFO  My Logs:58 - Jacket Name : Juno Jacket , Review Stars : 4.3*
+2022-11-18 00:24:03 INFO  My Logs:58 - Jacket Name : Neve Studio Dance Jacket , Review Stars : 4.3*
+2022-11-18 00:24:03 INFO  My Logs:58 - Jacket Name : Jade Yoga Jacket , Review Stars : 4.3*
+2022-11-18 00:24:03 INFO  My Logs:58 - Jacket Name : Riona Full Zip Jacket , Review Stars : 4.3*
+2022-11-18 00:24:03 INFO  My Logs:58 - Jacket Name : Augusta Pullover Jacket , Review Stars : 4.3*
+2022-11-18 00:24:03 INFO  My Logs:58 - Jacket Name : Josie Yoga Jacket , Review Stars : 3.5*
+2022-11-18 00:24:03 INFO  My Logs:58 - Jacket Name : Inez Full Zip Jacket , Review Stars : 3.3*
+2022-11-18 00:24:03 INFO  My Logs:58 - Jacket Name : Stellar Solar Jacket , Review Stars : 3.3*
+2022-11-18 00:24:03 INFO  My Logs:58 - Jacket Name : Nadia Elements Shell , Review Stars : 3*
+2022-11-18 00:24:03 INFO  My Logs:58 - Jacket Name : Adrienne Trek Jacket , Review Stars : 3*
+2022-11-18 00:24:03 INFO  My Logs:58 - Jacket Name : Olivia 1/4 Zip Light Jacket , Review Stars : 0*
+2022-11-18 00:24:03 INFO  My Logs:64 - User clicks on Price tab
+2022-11-18 00:24:04 INFO  My Logs:70 - User selects the price range
+2022-11-18 00:24:06 INFO  My Logs:77 - User validates the products falling under the range
+2022-11-18 00:29:16 INFO  My Logs:27 - Logger is initialized..
+2022-11-18 00:29:24 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-18 00:29:25 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-18 00:29:25 INFO  My Logs:34 - User hovers over section
+2022-11-18 00:29:25 INFO  My Logs:40 - User clicks on the option
+2022-11-18 00:29:27 INFO  My Logs:33 - User lands on to the page
+2022-11-18 00:29:27 INFO  My Logs:64 - User clicks on Price tab
+2022-11-18 00:29:28 INFO  My Logs:70 - User selects the price range
+2022-11-18 00:29:29 INFO  My Logs:77 - User validates the products falling under the range
+2022-11-18 00:31:27 INFO  My Logs:27 - Logger is initialized..
+2022-11-18 00:31:35 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-18 00:31:36 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-18 00:31:36 INFO  My Logs:34 - User hovers over section
+2022-11-18 00:31:36 INFO  My Logs:40 - User clicks on the option
+2022-11-18 00:31:38 INFO  My Logs:33 - User lands on to the page
+2022-11-18 00:31:38 INFO  My Logs:64 - User clicks on Price tab
+2022-11-18 00:31:39 INFO  My Logs:70 - User selects the price range
+2022-11-18 00:31:40 INFO  My Logs:77 - User validates the products falling under the range
+2022-11-18 00:33:12 INFO  My Logs:27 - Logger is initialized..
+2022-11-18 00:33:21 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-18 00:33:22 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-18 00:33:22 INFO  My Logs:34 - User hovers over section
+2022-11-18 00:33:22 INFO  My Logs:40 - User clicks on the option
+2022-11-18 00:33:24 INFO  My Logs:33 - User lands on to the page
+2022-11-18 00:33:24 INFO  My Logs:64 - User clicks on Price tab
+2022-11-18 00:33:25 INFO  My Logs:70 - User selects the price range
+2022-11-18 00:33:26 INFO  My Logs:77 - User validates the products falling under the range
+2022-11-18 00:49:50 INFO  My Logs:27 - Logger is initialized..
+2022-11-18 00:49:58 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-18 00:49:58 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-18 00:49:58 INFO  My Logs:34 - User hovers over section
+2022-11-18 00:49:59 INFO  My Logs:40 - User clicks on the option
+2022-11-18 00:50:01 INFO  My Logs:33 - User lands on to the page
+2022-11-18 00:50:01 INFO  My Logs:64 - User clicks on Price tab
+2022-11-18 00:50:01 INFO  My Logs:70 - User selects the price range
+2022-11-18 00:50:03 INFO  My Logs:77 - User validates the products falling under the range
+2022-11-18 00:51:33 INFO  My Logs:27 - Logger is initialized..
+2022-11-18 00:51:40 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-18 00:51:41 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-18 00:51:41 INFO  My Logs:34 - User hovers over section
+2022-11-18 00:51:41 INFO  My Logs:40 - User clicks on the option
+2022-11-18 00:51:43 INFO  My Logs:33 - User lands on to the page
+2022-11-18 00:51:43 INFO  My Logs:64 - User clicks on Price tab
+2022-11-18 00:51:44 INFO  My Logs:70 - User selects the price range
+2022-11-18 00:51:45 INFO  My Logs:77 - User validates the products falling under the range
+2022-11-18 00:55:17 INFO  My Logs:27 - Logger is initialized..
+2022-11-18 00:55:24 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-18 00:55:25 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-18 00:55:25 INFO  My Logs:34 - User hovers over section
+2022-11-18 00:55:25 INFO  My Logs:40 - User clicks on the option
+2022-11-18 00:55:27 INFO  My Logs:33 - User lands on to the page
+2022-11-18 00:55:28 INFO  My Logs:64 - User clicks on Price tab
+2022-11-18 00:55:28 INFO  My Logs:70 - User selects the price range
+2022-11-18 00:55:29 INFO  My Logs:77 - User validates the products falling under the range
+2022-11-18 00:59:07 INFO  My Logs:27 - Logger is initialized..
+2022-11-18 00:59:13 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-18 00:59:14 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-18 00:59:14 INFO  My Logs:34 - User hovers over section
+2022-11-18 00:59:14 INFO  My Logs:40 - User clicks on the option
+2022-11-18 00:59:16 INFO  My Logs:33 - User lands on to the page
+2022-11-18 00:59:16 INFO  My Logs:64 - User clicks on Price tab
+2022-11-18 00:59:16 INFO  My Logs:70 - User selects the price range
+2022-11-18 00:59:18 INFO  My Logs:77 - User validates the products falling under the range
+2022-11-18 00:59:18 INFO  My Logs:84 - User counts the total products whose stars are equal or greater than four
+2022-11-18 00:59:18 INFO  My Logs:85 - Total Number of Jackets after applying price range : 3
+2022-11-18 00:59:19 INFO  My Logs:87 - Total Number of Jackets whose stars are equal or greater than four : 2
+2022-11-18 00:59:19 INFO  My Logs:92 - User prints the jackets name and price
+2022-11-18 00:59:19 INFO  My Logs:96 - Jacket Name : Neve Studio Dance Jacket , Jacket Price : $69.00
+2022-11-18 00:59:19 INFO  My Logs:96 - Jacket Name : Riona Full Zip Jacket , Jacket Price : $60.00
+2022-11-18 01:00:58 INFO  My Logs:27 - Logger is initialized..
+2022-11-18 01:01:05 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-18 01:01:06 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-18 01:01:06 INFO  My Logs:34 - User hovers over section
+2022-11-18 01:01:06 INFO  My Logs:40 - User clicks on the option
+2022-11-18 01:01:08 INFO  My Logs:33 - User lands on to the page
+2022-11-18 01:01:08 INFO  My Logs:64 - User clicks on Price tab
+2022-11-18 01:01:09 INFO  My Logs:70 - User selects the price range
+2022-11-18 01:01:10 INFO  My Logs:77 - User validates the products falling under the range
+2022-11-18 01:01:11 INFO  My Logs:84 - User counts the total products whose stars are equal or greater than four
+2022-11-18 01:01:11 INFO  My Logs:85 - Total Number of Jackets after applying price range : 3
+2022-11-18 01:01:11 INFO  My Logs:87 - Total Number of Jackets whose stars are equal or greater than four : 2
+2022-11-18 01:01:11 INFO  My Logs:92 - User prints the jackets name and price
+2022-11-18 01:01:11 INFO  My Logs:96 - Jacket Name : Neve Studio Dance Jacket , Jacket Price : $69.00
+2022-11-18 01:01:11 INFO  My Logs:96 - Jacket Name : Riona Full Zip Jacket , Jacket Price : $60.00
+2022-11-18 01:03:20 INFO  My Logs:27 - Logger is initialized..
+2022-11-18 01:03:27 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-18 01:03:28 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-18 01:03:28 INFO  My Logs:34 - User hovers over section
+2022-11-18 01:03:28 INFO  My Logs:40 - User clicks on the option
+2022-11-18 01:03:30 INFO  My Logs:33 - User lands on to the page
+2022-11-18 01:03:30 INFO  My Logs:64 - User clicks on Price tab
+2022-11-18 01:03:31 INFO  My Logs:70 - User selects the price range
+2022-11-18 01:03:32 INFO  My Logs:77 - User validates the products falling under the range
+2022-11-18 01:03:41 INFO  My Logs:27 - Logger is initialized..
+2022-11-18 01:03:48 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-18 01:03:48 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-18 01:03:49 INFO  My Logs:34 - User hovers over section
+2022-11-18 01:03:49 INFO  My Logs:40 - User clicks on the option
+2022-11-18 01:03:51 INFO  My Logs:33 - User lands on to the page
+2022-11-18 01:03:51 INFO  My Logs:64 - User clicks on Price tab
+2022-11-18 01:03:51 INFO  My Logs:70 - User selects the price range
+2022-11-18 01:03:53 INFO  My Logs:77 - User validates the products falling under the range
+2022-11-18 01:03:53 INFO  My Logs:84 - User counts the total products whose stars are equal or greater than four
+2022-11-18 01:03:53 INFO  My Logs:85 - Total Number of Jackets after applying price range : 3
+2022-11-18 01:03:53 INFO  My Logs:87 - Total Number of Jackets whose stars are equal or greater than four : 2
+2022-11-18 01:03:53 INFO  My Logs:92 - User prints the jackets name and price
+2022-11-18 01:03:53 INFO  My Logs:96 - Jacket Name : Neve Studio Dance Jacket , Jacket Price : $69.00
+2022-11-18 01:03:53 INFO  My Logs:96 - Jacket Name : Riona Full Zip Jacket , Jacket Price : $60.00
+2022-11-18 01:04:21 INFO  My Logs:27 - Logger is initialized..
+2022-11-18 01:04:27 INFO  My Logs:22 - User validates Magento Application is launched
+2022-11-18 01:04:28 INFO  My Logs:28 - User hovers over top header drop down
+2022-11-18 01:04:28 INFO  My Logs:34 - User hovers over section
+2022-11-18 01:04:28 INFO  My Logs:40 - User clicks on the option
+2022-11-18 01:04:30 INFO  My Logs:33 - User lands on to the page
+2022-11-18 01:04:30 INFO  My Logs:39 - User validates the count of search results
+2022-11-18 01:04:30 INFO  My Logs:47 - User sorts products on the basis of rating in descending order
+2022-11-18 01:07:52 INFO  My Logs:53 - User prints the products names and ratings
+2022-11-18 01:07:52 INFO  My Logs:58 - Jacket Name : Ingrid Running Jacket , Review Stars : 4.5*
+2022-11-18 01:07:52 INFO  My Logs:58 - Jacket Name : Juno Jacket , Review Stars : 4.3*
+2022-11-18 01:07:52 INFO  My Logs:58 - Jacket Name : Neve Studio Dance Jacket , Review Stars : 4.3*
+2022-11-18 01:07:52 INFO  My Logs:58 - Jacket Name : Jade Yoga Jacket , Review Stars : 4.3*
+2022-11-18 01:07:52 INFO  My Logs:58 - Jacket Name : Riona Full Zip Jacket , Review Stars : 4.3*
+2022-11-18 01:07:52 INFO  My Logs:58 - Jacket Name : Augusta Pullover Jacket , Review Stars : 4.3*
+2022-11-18 01:07:52 INFO  My Logs:58 - Jacket Name : Josie Yoga Jacket , Review Stars : 3.5*
+2022-11-18 01:07:52 INFO  My Logs:58 - Jacket Name : Inez Full Zip Jacket , Review Stars : 3.3*
+2022-11-18 01:07:52 INFO  My Logs:58 - Jacket Name : Stellar Solar Jacket , Review Stars : 3.3*
+2022-11-18 01:07:52 INFO  My Logs:58 - Jacket Name : Nadia Elements Shell , Review Stars : 3*
+2022-11-18 01:07:52 INFO  My Logs:58 - Jacket Name : Adrienne Trek Jacket , Review Stars : 3*
+2022-11-18 01:07:52 INFO  My Logs:58 - Jacket Name : Olivia 1/4 Zip Light Jacket , Review Stars : 0*
+2022-11-18 01:07:52 INFO  My Logs:64 - User clicks on Price tab
+2022-11-18 01:07:52 INFO  My Logs:70 - User selects the price range
+2022-11-18 01:07:54 INFO  My Logs:77 - User validates the products falling under the range
+2022-11-18 01:07:54 INFO  My Logs:84 - User counts the total products whose stars are equal or greater than four
+2022-11-18 01:07:54 INFO  My Logs:85 - Total Number of Jackets after applying price range : 3
+2022-11-18 01:07:54 INFO  My Logs:87 - Total Number of Jackets whose stars are equal or greater than four : 2
+2022-11-18 01:07:54 INFO  My Logs:92 - User prints the jackets name and price
+2022-11-18 01:07:54 INFO  My Logs:96 - Jacket Name : Neve Studio Dance Jacket , Jacket Price : $69.00
+2022-11-18 01:07:54 INFO  My Logs:96 - Jacket Name : Riona Full Zip Jacket , Jacket Price : $60.00
